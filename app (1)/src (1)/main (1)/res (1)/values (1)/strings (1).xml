@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ex_2</string>
+    <string name="nome">Nome:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">"Feminio: "</string>
+    <string name="email">Email:</string>
+    <string name="telefone">"Telefone: "</string>
+    <string name="preferencias">"Preferências: "</string>
+    <string name="musica">Música </string>
+    <string name="chkcinema">Cinema </string>
+    <string name="esporte">Esporte </string>
+    <string name="gastronomia">Gastronomia </string>
+    <string name="noticacoes">"Ativar Notificações "</string>
+    <string name="off">Não </string>
+    <string name="on">Sim </string>
+    <string name="exibir">Exibir</string>
+    <string name="limpar">Limpar</string>
+</resources>
